@@ -29,7 +29,10 @@ Built using **Whisper** for speech-to-text and **Transformer-based NLP** for int
 | Language | Python 3.10+ |
 
 ---
-
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/Ferdaus71/ai-interview-evaluator.git
+cd ai-interview-evaluator
 ## ⚙️ Installation (Google Colab)
 
 Run these commands step-by-step in **Google Colab**:
