@@ -5,7 +5,7 @@ Built using **Whisper** for speech-to-text and **Transformer-based NLP** for int
 
 ---
 
-## 🎯 Features
+## 🎯 Featuresb
 
 ✅ Real-time audio transcription using OpenAI Whisper  
 ✅ NLP analysis of spoken answers (confidence, clarity, keyword strength)  
